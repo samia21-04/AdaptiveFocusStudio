@@ -17,7 +17,6 @@ void main() {
 }
 
 // ── Color Palette ─────────────────────────────────────────
-// Use these constants anywhere in the app for consistency
 class AppColors {
   static const background   = Color(0xFF1A1014); // near black with warm tint
   static const surface      = Color(0xFF2A1A1F); // dark maroon surface
